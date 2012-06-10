@@ -1,39 +1,12 @@
-Object (noun)
-Object description (adjective)
-Action (verb)
-Action description (adverb)
-Subject (noun)
-Subject description (adjective)
-Relation between action and subject (preposition)
-
-Note
-====
-
-Synonyms should not be studied in the begining. When talking and hearing unknown word brain can easily memorize it if
-core vocabulary is intact
-
 Nouns and verbs (key logic)
 ===========================
 
-1. Movement (transport plus verbs)
-2. Finances (payments, shoping and anything alike)
-2. Places, employees and customers there
-3. Food and cooking
+1. Non antonym adjectives, adverbs and prepositions
 4. Animals
 5. Physics, maths, geometry primitives and measurements (speed/length/mass)
-6. Digits (grammar)
-7. Furniture, apartment equipment and house types
+6. Antonym adjectives, adverbs and prepositions
 8. Geography and traveling
 9. Timing (seasons, days of week)
-10. Sports
-
-Adverbs and adjectives (supplementary logic)
-============================================
-
-1. Antonym adjectives, adverbs and prepositions
-2. Non antonym adjectives, adverbs and prepositions
-3. Colors
-4. Question words
 
 Question words
 ==============
@@ -133,6 +106,7 @@ Ambulance
 Hospital
 Cemetery
 Office
+Stadium
 
 Airport
 Railway station
@@ -184,6 +158,9 @@ Dentist
 Nurse
 Policeman
 Fireman
+Magician
+Judge
+Coach
 
 Buildings
 =========
@@ -251,6 +228,8 @@ Chair
 Cup
 Plate
 Fridge
+Dish
+Source pan
 
 Bad
 Blanket
@@ -259,9 +238,213 @@ Mattress
 Sheet
 Wardrobe
 
+Sports
+======
+
+Basketball
+Swimming
+Football
+Baseball
+Tennis
+Wrestling
+Boxing
+Ping pong
+Badminton
+Gymnastics
+Chess
+Golf
+Skying
+Skating
+Bodybuilding
+Yoga
+
+Entertainment
+=============
+
+Card games
+Computer games
+TV series
+Movie
+Horror
+Sci-Fi
+Detective
+TV show
+News
+
+Crimes
+======
+
+Murder
+Theft
+Robbery
+Kidnapping
+Blackmail
+Bribery
+Thief
+Prison
+Court
+Justice
+Revenge
+Gun
+Machine gun
+Sword
+Shield
+Cage
+Verdict
+
+Clothes
+=======
+
+Trousers
+Jeans
+T-shirt
+Shorts
+Socks
+Shirt
+Jacket
+Sweater
+Scarf
+Hat
+Glasses
+Shoes
+Snickers
+Pants
+Underwear
+Slippers
+Snickers
+Coat
+Umbrella
+Wallet
+Bag
+Backpack
+
+Money and finances
+==================
+
+Money
+Bargain
+Tax
+Profit
+Loss
+Deal
+
+Food
+====
+
+Fruit
+Banana
+Apple
+Pineapple
+Orange
+Grape
+Berry
+Strawberry
+Watermelon
+Perry
+Lemon
+
+Vegetable
+Potato
+Tomato
+Broccoli
+Onion
+Garlic
+Cabbage
+Cucumber
+Salad
+Paprika
+
+Grain
+Rice
+Pasta
+Porridge
+
+Flour
+Bread
+Cake
+Chocolate
+Candy
+Chewing gum
+
+Chicken
+Beef
+Pork
+Fish
+Egg
+Nuts
+Olive
+
+Dressing
+Oil
+Butter
+Ketchup
+Mustard
+Mayonnaise
+Cinnamon
+Pepper
+Salt
+Sugar
+Curry
+
+Alcohol
+Wine
+Vodka
+Beer
+Cider
+Water
+Juice
+Tea
+Coffee
 
 
 
 
 
+
+
+
+
+
+
+Verbs
+=====
+
+to put on
+to wear
+to put off
+to try on
+to fix
+
+to change
+to buy
+to sell
+to earn
+
+to kill
+to steal
+to punish
+to shoot
+to stub
+
+to watch
+to turn on/off
+to switch on/off
+to play
+to vote
+
+to play
+to kick
+to through
+to hit
+to win
+to loose
+
+to sleep
+to wash
+to clean
+to boil
+to cook
+to wake up
+to shower
+to pee
 

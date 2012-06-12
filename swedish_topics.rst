@@ -7,6 +7,7 @@ Nouns and verbs (key logic)
 6. Antonym adjectives, adverbs and prepositions
 8. Geography and traveling
 9. Timing (seasons, days of week)
+10. Anatomy
 
 Question words
 ==============
@@ -107,6 +108,7 @@ Hospital
 Cemetery
 Office
 Stadium
+Tent
 
 Airport
 Railway station
@@ -161,6 +163,7 @@ Fireman
 Magician
 Judge
 Coach
+Farmer
 
 Buildings
 =========
@@ -170,6 +173,8 @@ Home
 Flat
 Farm
 Garage
+Fence
+Greenhouse
 
 Kitchen
 Living room
@@ -318,6 +323,8 @@ Wallet
 Bag
 Backpack
 
+Cutton
+
 Money and finances
 ==================
 
@@ -396,55 +403,109 @@ Juice
 Tea
 Coffee
 
-
-
-
-
-
-
-
-
-
-
 Verbs
 =====
 
-to put on
-to wear
-to put off
-to try on
-to fix
+For each word recall all four forms. Practice by writing a sentence with each form and each preposition plus painting something.
 
-to change
-to buy
-to sell
-to earn
+to agree - (2) samtycka
+to let - (4) låta - låt! - låter - låt - låtit
+to answer - (1) svara
+to ask - (1) fråga
 
-to kill
-to steal
-to punish
-to shoot
-to stub
+to be - (4) vara - var! - är- var - varit
+to become - (4) bli - bli! - blir - blev - blivit
+to begin - (1) börja
+to believe - (3) tro
+to borrow - (1) låna
+to break - (4) bryta - bryt! - bryter - bröt - brutit
+to buy - (2) köpa
 
-to watch
-to turn on/off
-to switch on/off
-to play
-to vote
+to call (phone) - (2) ringa
+to call - (1) kalla
+to carry - (4) bära - bär! - bär - bar -burit
+to change - (1) ändra
+to close - (2) stänga
+to come - (4) komma - kom! - kommer - kom - kommit
+to cut - (4) skära - skär! - skär - skar - skurit
 
-to play
-to kick
-to through
-to hit
-to win
-to loose
+to decide - (2) bestäma
+to do = to make - (4) göra - gör! - gör - gjorde - gjort
+to eat - (4) äta - ät! - äter - åt - ätit
+to explain - (1) förklara
 
-to sleep
-to wash
-to clean
-to boil
-to cook
-to wake up
-to shower
-to pee
+to fall - (4) falla - fall! - faller - föll - fallit
+to feel - (2) känna
+to fill - (2) fylla
+to find - (1) hitta
+to finish - (1) avsluta
+to fly - (4) flyga - flyg! - flyger - flög - flugit
+to follow - (2) följa
+to forget - (2) glömma
+
+to get - (4) få - få! - får - fick - fått
+to give - (4) ge - ge! - get - gav - gett
+to go = to walk - (4) gå - gå! - går - gick - gått
+to happen - (2) hända
+to have - (4) ha - ha! - har - hade - haft
+to hear - (2) höra
+to help - (2) hjälpa
+to hold = to keep - (4) hålla - håll! - håller - höll - hållit
+
+to know - (4) vet - vet! - vet - visste - vetat
+to learn = to teach - (2) lära
+to leave - (1) lämna
+to like - (1) gilla
+to listen - (1) lyssna
+to live - (2) leva
+to look = to see - (4) se - se! - - såg - sett
+to lose  (be defeated) - (1) förlora
+
+to mean - (1) mena
+to meet - (1) träffa
+to move - (2) röra
+to need - (2) behöva
+to open - (1) öppna
+
+to pay - (1) betala
+to play - (1) spela
+to prey (ask) - (4) be - be! - ber - bad - bett
+to promise - (1) lova
+to put - (2) sätta
+to read - (2) läsa
+to remember - (2) minnas
+to run - (4) springa - spring! - springer - sprang - sprungit
+
+to say - (4) säga - säg! - säger - sa - sagt
+to seem - (1) verka
+to sell - (4) sälja - sälj - säljer - sålde - sålt
+to send - (2) sända
+to set - (2) ställa
+to show - (1) visa
+to sit - (4) sitta - sitt! - sitter - satt - suttit
+to sleep - (4) sova - sov! - sover - sov - sovit
+to speak = to talk = to tell - (1) tala
+to spend - (1) spendera
+to stand - (4) stå - stå! - står - ståd - stått
+to start - (1) starta
+to stop - (1) stoppa
+to study - (1) studera
+to suggest - (4) föreslå - föreslå! - föreslår - föreslåg - föreslagit
+
+to take - (4) ta - ta! - tar - tog - tagit
+to think - (2) tänka
+to travel - (2) resa
+to try - (2) försöka
+to turn - (2) vända
+to understand - (4) förstå - förstå! - förstår - förtåd - förstått
+to use - (2) använda
+
+to wait - (1) vänta
+to wake up - (1) vakna
+to want - (4) vilja - # - vil - ville - velat
+to watch - (1) titta
+to win - (4) vinna - vinn! - vinner - vann - vunnit
+to work - (1) arbeta
+to worry - (1) oroa sig - oroa dig!
+to write - (4) skriva - skriv! - skriver - skrev - skrivit
 

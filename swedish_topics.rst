@@ -417,8 +417,10 @@ to be - (4) vara - var! - är- var - varit
 to become - (4) bli - bli! - blir - blev - blivit
 to begin - (1) börja
 to believe - (3) tro
+to bite - (4) bita - bit! - biter -  bet - bitit
 to borrow - (1) låna
 to break - (4) bryta - bryt! - bryter - bröt - brutit
+to burn - (4) brinna - brinn! - brinner - brann - brunnit
 to buy - (2) köpa
 
 to call (phone) - (2) ringa
@@ -427,15 +429,25 @@ to carry - (4) bära - bär! - bär - bar -burit
 to change - (1) ändra
 to close - (2) stänga
 to come - (4) komma - kom! - kommer - kom - kommit
+to choose - (4) välja - välj! - väljer - valde - valt
+to cry - (4) gråta - gråt! - gråter - grät - gråtit
 to cut - (4) skära - skär! - skär - skar - skurit
 
 to decide - (2) bestäma
+to die - (4) dö - dö! - dör - dog - dött
+to disapper - (4) försvinna - försvinn! - försvinner - försvann - försvunnit
+to dive - (4) dyka - dyk! - dyker - dök - dykt
 to do = to make - (4) göra - gör! - gör - gjorde - gjort
+to drink - (4) dricka - drick! - dricker - drack - druckit
+to drive - (4) driva - driv! - driver - drev - drivit
 to eat - (4) äta - ät! - äter - åt - ätit
+to enjoy - (4) njuta - njut! - njuter - njöt - njutit
+to exist - (4)  finnas - # - finns - fanns - funnits
 to explain - (1) förklara
 
 to fall - (4) falla - fall! - faller - föll - fallit
 to feel - (2) känna
+to fight - (4) slåss - slåss! - slåss - slogs - slagits
 to fill - (2) fylla
 to find - (1) hitta
 to finish - (1) avsluta
@@ -446,15 +458,19 @@ to forget - (2) glömma
 to get - (4) få - få! - får - fick - fått
 to give - (4) ge - ge! - get - gav - gett
 to go = to walk - (4) gå - gå! - går - gick - gått
+to grow - (4) växa - väx! - växer - växte - vuxit
 to happen - (2) hända
 to have - (4) ha - ha! - har - hade - haft
 to hear - (2) höra
 to help - (2) hjälpa
+to hide - (4) dölja - dölj! - döljer - dolde - dolt
 to hold = to keep - (4) hålla - håll! - håller - höll - hållit
+to jump - (1) hoppa
 
 to know - (4) vet - vet! - vet - visste - vetat
 to learn = to teach - (2) lära
 to leave - (1) lämna
+to let - (4) låta - låt! - låter - lät - låtit
 to like - (1) gilla
 to listen - (1) lyssna
 to live - (2) leva
@@ -474,6 +490,7 @@ to promise - (1) lova
 to put - (2) sätta
 to read - (2) läsa
 to remember - (2) minnas
+to ride - (4) rida - rid! - rider - red - ridit
 to run - (4) springa - spring! - springer - sprang - sprungit
 
 to say - (4) säga - säg! - säger - sa - sagt
@@ -481,16 +498,20 @@ to seem - (1) verka
 to sell - (4) sälja - sälj - säljer - sålde - sålt
 to send - (2) sända
 to set - (2) ställa
+to shoot - (4) skjuta - skjut! - skjuter - sköt - skjutit
 to show - (1) visa
+to sing - (4) sjunga - sjung! - sjunger - sjöng - sjungit
 to sit - (4) sitta - sitt! - sitter - satt - suttit
 to sleep - (4) sova - sov! - sover - sov - sovit
 to speak = to talk = to tell - (1) tala
 to spend - (1) spendera
 to stand - (4) stå - stå! - står - ståd - stått
 to start - (1) starta
+to steal - (4) stjäla - stjäl! - stäl - stal - stulit
 to stop - (1) stoppa
 to study - (1) studera
 to suggest - (4) föreslå - föreslå! - föreslår - föreslåg - föreslagit
+to swim - (1) simma
 
 to take - (4) ta - ta! - tar - tog - tagit
 to think - (2) tänka

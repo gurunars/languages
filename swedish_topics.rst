@@ -1,23 +1,3 @@
-sports
-======
-
-basketball
-swimming
-football
-baseball
-tennis
-wrestling
-boxing
-ping pong
-badminton
-gymnastics
-chess
-golf
-skying
-skating
-bodybuilding
-yoga
-
 entertainment
 =============
 

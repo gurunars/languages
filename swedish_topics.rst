@@ -31,10 +31,6 @@ sword
 shield
 cage
 verdict
-
-money and finances
-==================
-
 money
 bargain
 tax

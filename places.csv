@@ -10,10 +10,8 @@ restaurant,restaurang
 bar,bar
 fountain,fontän/brunn
 road/street,gata
-barn,lada
 garage,garage (n)
 school,skola
-barracks,kasern
 hospital,sjukhus (n)
 sidewalk,trottoar
 bench,bänk
@@ -23,7 +21,6 @@ bookstore,bokhandel
 house,hus (n)
 stable,stall (n)
 bridge,bro
-hut,hydda
 stadium,stadion
 building,byggnad
 inn,värdshus (n)
@@ -45,10 +42,24 @@ palace,palats (n)
 town hall,rådhus (n)
 consulate,konsulat (n)
 path,stig
-train station
-järnvägsstation
+train station, järnvägsstation
 corner,hörn (n)
 pharmacy,apotek (n)
 university,universitet (n)
 police station,polisstation
 village,by
+shop,butik/handla
+gym,gym (n)
+job,jobb (n)
+swimming pool,pool
+cafe,cafe (n)
+night club,nattklubb
+park,park
+laundry,tvättstuga
+cinema,bio
+shopping mall,köpcentrum (n)
+ambulance,ambulans
+office,kontor (n)
+railway station,järnvägsstation
+bus stop,busshållplats
+subway,tunnelbana

@@ -1,170 +1,3 @@
-Nouns and verbs (key logic)
-===========================
-
-1. Non antonym adjectives, adverbs and prepositions
-4. Animals
-5. Physics, maths, geometry primitives and measurements (speed/length/mass)
-6. Antonym adjectives, adverbs and prepositions
-8. Geography and traveling
-9. Timing (seasons, days of week)
-10. Anatomy
-
-Question words
-==============
-
-What
-Why
-When
-Where
-Which
-Who
-Whom
-How
-Whose
-
-Prepositions
-============
-
-about (story about wolf)
-above != below, under
-after != before
-across
-against == versus
-against == opposite to
-along
-among
-around
-as
-at
-behind != in front of
-between
-but
-by
-down != up
-except
-for
-from != to
-in != out
-inside != outside
-into
-like != unlike
-near (near my car)
-of
-off != on
-onto
-plus != minus
-since
-than
-through
-towards
-until
-with != without
-
-Colors
-======
-
-White
-Black
-Red
-Orange
-Yellow
-Green
-Blue
-Violet
-Pink
-Brown
-Grey
-
-Places
-======
-
-Shop
-Gym
-Bar
-Job
-School
-Bank
-University
-Street
-Road
-Swimming pool
-Restaurant
-Café
-Night club
-Museum
-Art gallery
-Park
-Street
-Church
-Laundry
-Hotel
-Hostel
-Cinema
-Pharmacy
-Shopping mall
-Factory
-Ambulance
-Hospital
-Cemetery
-Office
-Stadium
-Tent
-
-Airport
-Railway station
-Bus stop
-Subway
-Port
-Road
-Railway
-
-Professions/occupations
-=======================
-
-Lawyer
-Shop assistant
-Driver
-Cashier
-Employer
-Employee
-Programmer
-Architect
-Stewardess
-Blacksmith
-Carpenter
-Manager
-Leader
-Crowd
-Student
-Actor
-Artist
-Singer
-Scientist
-Pilot
-Guard
-Bartender
-Dancer
-Teacher
-Composer
-Writer
-Movie director
-Photographer
-Sportsman
-Player
-Buyer
-Hairdresser
-Customer
-Gardener
-Doctor
-Dentist
-Nurse
-Policeman
-Fireman
-Magician
-Judge
-Coach
-Farmer
-
 Buildings
 =========
 
@@ -176,43 +9,16 @@ Garage
 Fence
 Greenhouse
 
-Kitchen
 Living room
-Bathroom
-Toilet
-Bedroom
 Cloak room
 Sauna
-Balcony
 
-Floor
-Roof
-Ceiling
-Wall
-Door
-Window
-Door handle
-Door lock
-Key
-Mail box
 
-Bath
-Shower
-Tap
-Mirror
 Washing machine
-Towel
 
-TV
 Mobile phone
-Armchair
-Sofa
-Keyboard
-Cupboard
-Carpet
-Shelf
 
-PC
+Keyboard
 Speakers
 Headphones
 Microphone
@@ -236,8 +42,6 @@ Fridge
 Dish
 Source pan
 
-Bad
-Blanket
 Pillow
 Mattress
 Sheet

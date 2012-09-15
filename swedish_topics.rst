@@ -1,12 +1,8 @@
 Buildings
 =========
 
-House
 Home
 Flat
-Farm
-Garage
-Fence
 Greenhouse
 
 Living room
@@ -21,16 +17,11 @@ Mobile phone
 Keyboard
 Speakers
 Headphones
-Microphone
-Mouse
 HDD
 Processor
 
 Dishwasher
-Oven
 Microwave oven
-Kettle
-Frying pan
 Fork
 Knife
 Spoon
@@ -38,13 +29,8 @@ Table
 Chair
 Cup
 Plate
-Fridge
 Dish
-Source pan
 
-Pillow
-Mattress
-Sheet
 Wardrobe
 
 Sports
@@ -101,34 +87,6 @@ Shield
 Cage
 Verdict
 
-Clothes
-=======
-
-Trousers
-Jeans
-T-shirt
-Shorts
-Socks
-Shirt
-Jacket
-Sweater
-Scarf
-Hat
-Glasses
-Shoes
-Snickers
-Pants
-Underwear
-Slippers
-Snickers
-Coat
-Umbrella
-Wallet
-Bag
-Backpack
-
-Cutton
-
 Money and finances
 ==================
 
@@ -141,29 +99,6 @@ Deal
 
 Food
 ====
-
-Fruit
-Banana
-Apple
-Pineapple
-Orange
-Grape
-Berry
-Strawberry
-Watermelon
-Perry
-Lemon
-
-Vegetable
-Potato
-Tomato
-Broccoli
-Onion
-Garlic
-Cabbage
-Cucumber
-Salad
-Paprika
 
 Grain
 Rice

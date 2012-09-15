@@ -1,143 +1,82 @@
-Buildings
-=========
-
-Home
-Flat
-Greenhouse
-
-Living room
-Cloak room
-Sauna
-
-
-Washing machine
-
-Mobile phone
-
-Keyboard
-Speakers
-Headphones
-HDD
-Processor
-
-Dishwasher
-Microwave oven
-Fork
-Knife
-Spoon
-Table
-Chair
-Cup
-Plate
-Dish
-
-Wardrobe
-
-Sports
+sports
 ======
 
-Basketball
-Swimming
-Football
-Baseball
-Tennis
-Wrestling
-Boxing
-Ping pong
-Badminton
-Gymnastics
-Chess
-Golf
-Skying
-Skating
-Bodybuilding
-Yoga
+basketball
+swimming
+football
+baseball
+tennis
+wrestling
+boxing
+ping pong
+badminton
+gymnastics
+chess
+golf
+skying
+skating
+bodybuilding
+yoga
 
-Entertainment
+entertainment
 =============
 
-Card games
-Computer games
-TV series
-Movie
-Horror
-Sci-Fi
-Detective
-TV show
-News
+card games
+computer games
+tv series
+movie
+horror
+sci-fi
+detective
+tv show
+news
 
-Crimes
+crimes
 ======
 
-Murder
-Theft
-Robbery
-Kidnapping
-Blackmail
-Bribery
-Thief
-Prison
-Court
-Justice
-Revenge
-Gun
-Machine gun
-Sword
-Shield
-Cage
-Verdict
+murder
+theft
+robbery
+kidnapping
+blackmail
+bribery
+thief
+prison
+court
+justice
+revenge
+gun
+machine gun
+sword
+shield
+cage
+verdict
 
-Money and finances
+money and finances
 ==================
 
-Money
-Bargain
-Tax
-Profit
-Loss
-Deal
+money
+bargain
+tax
+profit
+loss
+deal
 
-Food
+food
 ====
 
-Grain
-Rice
-Pasta
-Porridge
-
-Flour
-Bread
-Cake
-Chocolate
-Candy
-Chewing gum
-
-Chicken
-Beef
-Pork
-Fish
-Egg
-Nuts
-Olive
-
-Dressing
-Oil
-Butter
-Ketchup
-Mustard
-Mayonnaise
-Cinnamon
-Pepper
-Salt
-Sugar
-Curry
-
-Alcohol
-Wine
-Vodka
-Beer
-Cider
-Water
-Juice
-Tea
-Coffee
+pasta
+porridge
+chocolate
+candy
+chewing gum
+nuts
+dressing
+ketchup
+mayonnaise
+cinnamon
+curry
+alcohol
+vodka
+cider
+juice

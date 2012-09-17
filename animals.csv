@@ -1,128 +1,68 @@
-animal,djur (n),,,,
-ant,myra,,,,
-badger,grävling,,,,
-bat,fladdermus,,,,
-beak,näbb,,,,
-bear,björn,,,,
-bee,bi (n),,,,
-beetle,skalbagge,,,,
-bird,fågel,,,,
-blackbird,koltrast,,,,
-bull,tjur,,,,
-butterfly,fjäril,,,,
-calf,kalv,,,,
-carp,karp,,,,
-cat,katt,,,,
-caterpillar,larv,,,,
-chicken,kyckling,,,,
-chimpanzee,schimpans,,,,
-claw,klo,,,,
-cockroach,kackerlacka,,,,
-cod,torsk,,,,
-cow,ko,,,,
-crab,krabba,,,,
-crayfish,kräfta,,,,
-crocodile,krokodil,,,,
-crow,kråka,,,,
-deer,hjort,,,,
-dog,hund,,,,
-donkey,åsna,,,,
-dragonfly,trollslända,,,,
-duck,anka,,,,
-eagle,örn,,,,
-eel,ål,,,,
-elephant,elefant,,,,
-feather,fjäder,,,,
-fin,fena,,,,
-fish,fisk,,,,
-flea,loppa,,,,
-fly,fluga,,,,
-fox,räv,,,,
-frog,groda,,,,
-fur,päls,,,,
-gill,gäl,,, , 
-giraffe,giraff,,,,
-goat,get,,,,
-goose,gås,,,,
-gorilla,gorilla,,,,
-grasshopper,gräshoppa,,,,
-hamster,hamster,,,,
-hare,hare,,,,
-hedgehog,igelkott,,,,
-hen,höna,,,,
-heron,häger,,,,
-herring,sill,,,,
-hoof,hov,,,,
-horn,horn (n),,,,
-horse,häst,,,,
-hummingbird,kolibrier,,,,
-iguana,Ieguan,,,,
-insect,insekt,,,,
-jellyfish,manet,,,,
-kitten,kattunge,,,,
-ladybug,nyckelpiga,,,,
-lamb,lamm (n),,,,
-lark,lärka,,,,
-lion,lejon (n),,,,
-lizard,ödla,,,,
-lobster (spiny),hummer,,,,
-louse,lus,,,,
-mackerel,makrill,,,,
-mole,mullvad,,,,
-monkey,apa,,,,
-mosquito,mygga,,,,
-moth,nattfjäril,,,,
-mouse,mus,,,,
-mule,mula,,,,
-nightingale,näktergal,,,,
-octopus,bläckfisk,,,,
-ostrich,struts,,,,
-owl,uggla,,,,
-ox,oxe,,,,
-oyster,ostron (n),,,,
-parrot,papegoja,,,,
-partridge,rapphöna,,,,
-paw,tass,,,,
-penguin,pingvin,,,,
-pig,svin (n),,,,
-pigeon,duva,,,,
-pike,gädda,,,,
-rabbit,kanin,,,,
-raccoon,tvättbjörn,,,,
-rat,råtta,,,,
-rooster,tupp,,,,
-salmon,lax,,,,
-scale,fjäll (n),,,,
-scorpion,skorpion,,,,
-sea gull,mås,,,,
-seahorse,sjöhäst,,,,
-seal,säl,,,,
-shark,haj,,,,
-sheep,får,,,,
-shrimp,räka,,,,
-slug,snigel,,,,
-snail,snigel,,,,
-snake,orm,,,,
-sole,sjötunga,,,,
-sparrow,sparv,,,,
-spider,spindel,,,,
-squirrel,ekorre,,,,
-starfish,sjöstjärna,,,,
-stork,stork,,,,
-swallow,svala,,,,
-swan,svan,,,,
-tadpole,grodyngel,,,,
-tail,svans,,,,
-tiger,tiger,,,,
-toad,padda,,,,
-trout,forell,,,,
-tuna,tonfisk,,,,
-turkey,kalkon,,,,
-turtle,sköldpadda,,,,
-wasp,geting,,,,
-weasel,vessla,,,,
-whale,"valfisk, val",,,,
-wing,vinge,,,,
-wolf,varg,,,,
-worm,mask,,,,
-zebra,zebra,,,,
+animal,djur (n)
+ant,myra
+bat,fladdermus
+bear,björn
+bee,bi (n)
+bird,fågel
+bull,tjur
+butterfly,fjäril
+cat,katt
+chicken,kyckling
+cockroach,kackerlacka
+cow,ko
+crocodile,krokodil
+crow,kråka
+deer,hjort
+dog,hund
+donkey,åsna
+duck,anka
+eagle,örn
+elephant,elefant
+fish,fisk
+fly,fluga
+fox,räv
+frog,groda
+fur,päls
+giraffe,giraff
+goose,gås
+gorilla,gorilla
+grasshopper,gräshoppa
+hamster,hamster
+hedgehog,igelkott
+horse,häst
+insect,insekt
+kitten,kattunge
+lamb,lamm (n)
+lion,lejon (n)
+lizard,ödla
+monkey,apa
+mosquito,mygga
+mouse,mus
+octopus,bläckfisk
+parrot,papegoja
+penguin,pingvin
+pig,svin (n)
+pigeon,duva
+rabbit,kanin
+rat,råtta
+salmon,lax
+scorpion,skorpion
+sea gull,mås
+shark,haj
+sheep,får
+shrimp,räka
+snail,snigel
+snake,orm
+sparrow,sparv
+spider,spindel
+squirrel,ekorre
+swan,svan
+tiger,tiger
+tuna,tonfisk
+turkey,kalkon
+turtle,sköldpadda
+wasp,geting
+whale,"valfisk, val"
+wolf,varg
+worm,mask
+zebra,zebra

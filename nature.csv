@@ -3,7 +3,6 @@ bank,strand
 bay,vik
 beach,strand
 branch,gren
-bud,knopp
 bush,buske
 cape,kap
 cave,grotta
@@ -11,14 +10,10 @@ climate,klimat
 cloud,moln (n)
 coast,kust
 comet,komet
-constellation,konstellation
 country(side),land (n)
 current,ström
-daffodil,narcisser
-daisy,tusensköna
 darkness,mörker (n)
 desert,öken
-dew,dagg
 dust,damm (n)
 earth,jord
 east,öster
@@ -33,23 +28,18 @@ grass,gräs (n)
 gulf,vik
 hail,hagel (n)
 hay,hö (n)
-high tide,flod
 hill,kulle
 ice,is
 island,ö
-isthmus,"landtunga, näs"
 jungle,djungel
 lake,sjö
 leaf,blad
 light,ljus (n)
 lightning,blixt
-lily,lilja
-low tide,ebb
 meadow,äng
 moon,måne
 mountain,berg (n)
 mountain range,bergskedja
-mud,mudder (n)
 nature,natur
 north,norr
 peninsula,halvö
@@ -79,11 +69,9 @@ strait,sund
 stream,bäck
 sun,sol
 sunflower,solros
-thaw,töväder (n)
 thunder,åska
 tornado,tromb
 tree,träd
-tulip,tulpan
 valley,dal
 view,utsikt
 water,vatten (n)

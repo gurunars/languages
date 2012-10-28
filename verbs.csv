@@ -74,25 +74,30 @@ accumulate,(1) ackumulera
 add,(1) addera
 arrange,(1) arrangera
 assist,(1) assistera
+take a bath,(1) bada
 present/introduce,(1) presentera
 prepare,(1) preparera
 reduce,(1) reducera
 attend,(1) bevista
 bake,(1) baka
-change,(1) ändra
+change * 2,(1) ändra/(2) byta
 clean,(1) städa
 
 cook,(1) laga
 disconnect,(=1) koppla ur
 draw (picture),(1) rita
+drink coffee,(1) dricka
 fall asleep,(1) somna
 fear,(1) frukta
 finish/end/stop * 2,(1) avsluta/sluta
+celebrate,(1) fira
 fit,(1) passa
 join,(1) koppla
+lay the table,(1) duka
 leave,(1) lämna
 lock/fasten,(2) låsa
 mail,(1) posta
+manufacture,(1) tillverka
 meet (people) * 2,(1) träffa (människor)/(2) möta (människor)
 miss (someone),(1) sakna
 miss (a bus, a target),(1) missa
@@ -114,8 +119,10 @@ watch,(1) titta
 
 work * 2,(1) arbeta/(1) jobba
 be named, be called,(2) heta
+drop,(2) sjunka
 build,(2) bygga
 call (phone),(2) ringa
+care,(2) care
 close,(2) stänga
 compare,(2) jämföra
 differ (from),(2) skilja sig (från)
@@ -197,7 +204,7 @@ missunderstand,(=4) missförstå
 consist of,(4) bestå av - : - består av - bestod - bestått
 drag/pull,(4) draga - drag - drar - drog - dragit
 fall,(4) falla - fall! - faller - föll - fallit
-travel * 2,(4) fara - far - far - for - farit/(2) resa 
+travel * 2,(4) fara - far - far - for - farit/(2) resa
 give,(4) ge - ge! - get - gav - gett
 give up,(=4) ge upp
 publish,(=4) ge ut
@@ -270,6 +277,7 @@ bite,(4) bita - bit! - biter -  bet - bitit
 ride,(4) rida - rid! - rider - red - ridit
 run, operate some machine,(4) driva - driv! - driver - drev - drivit
 write,(4) skriva - skriv! - skriver - skrev - skrivit
+rewrite, (=4) skriva om
 sign in,(=4) skriva in sign
 sign (an official paper),(=4) skriva på
 shout,(4) skrika - skrik! - skriker - skrek - skrikit
@@ -285,5 +293,6 @@ sing,(4) sjunga - sjung! - sjunger - sjöng - sjungit
 shoot,(4) skjuta - skjut! - skjuter - sköt - skjutit
 lie (say not truth),(4) ljuga - ljug - ljuger - ljög - ljugit
 cancel/delete,(4) stryka - stryk! - stryker - strök - strukit
+iron,(=4) stryka
 connect/join,(4) ansluta - anslut! - ansluter - anslöt - anslutit
 interrupt,(4) avbryta - avbryt! - avbryter - avbröt - avbrutit

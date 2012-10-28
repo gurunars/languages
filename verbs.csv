@@ -1,143 +1,217 @@
-answer,(1) svara
-ask,(1) fråga
-bake,(1) baka
+[[MONEY & BARGAINS]]
+rent,(1) arrendera
+borrow,(1) låna
+book/reserve,(1) boka
+exchange,(1) växla
+register,(1) registera
+pay,(1) betala
+spend,(1) spendera
+earn,(1) tjana
+buy,(2) köpa
+
+[[MOVEMENT]]
+accelerate,(1) accelerera
+jump,(1) hoppa
+swim,(1) simma
+drive,(2) köra
+move,(2) röra
+
+[[HELP VERBS]]
+refuse,(1) refusera
 be used to,(1) bruka
 begin,(1) börja
-book / reserve,(1) boka
-borrow,(1) låna
+like,(1) gilla/(2) tycka om
+start,(1) starta
+stop,(1) stoppa
+wonder,(1) undra
+think,(2) tänka
+need,(2) behöva
+decide,(2) bestäma
+feel * 3,(2) känna ett tryck : feel an object/(3) må sjuk : feel youself physically (no emotions!)/(2) känna sig : feel yourself (any situation)
+plan,(1) planera
+love,(1) älska
+guess,(1) gissa
+
+[[AGGRESSION]]
+arrest,(1) arrestera
+hate,(1) hata
+kill,(1) döda
+misjudge/mistake,(1) missuppfatta
+atack,(1) atackera
+lose (be defeated),(1) förlora
+
+[[COMMUNICATION]]
+answer,(1) svara
+ask,(1) fråga
+excuse, (1) ursäkta
+explain,(1) förklara
+mean | I mean that ...,(1) mena | Jag menar att ...
+listen | listen to me,(1) lyssna | lyssna på mig
+promise,(1) lova
+advise,(2) råda
+agree,(2) samtycka
+tell * 1,(1) berätta
+thank,(1) tacka
+appologize,(1) ursäkta sign
+forget,(2) glömma
+read,(2) läsa
+repeat,(1) upprepa
+speak/talk * 2,(1) [sam]tala/(1) prata
+show,(1) visa
+laugh,(1) skratta
 call,(1) kalla
+
+[[STUDY]]
+research/investigate,(1) forska
+teach,(1) undervisa
+spell,(1) stava
+study,(1) studera
+learn = teach,(2) lära
+pass a test, succeed,(1) klara
+accept,(1) acceptera
+
+accumulate,(1) ackumulera
+add,(1) addera
+arrange,(1) arrangera
+assist,(1) assistera
+present/introduce,(1) presentera
+prepare,(1) preparera
+reduce,(1) reducera
+attend,(1) bevista
+bake,(1) baka
 change,(1) ändra
 clean,(1) städa
 
+cook,(1) laga
+disconnect,(=1) koppla ur
 draw (picture),(1) rita
-earn,(1) tjana
-exchange,(1) växla
-explain,(1) förklara
 fall asleep,(1) somna
-find,(1) hitta
+fear,(1) frukta
 finish/end/stop * 2,(1) avsluta/sluta
 fit,(1) passa
-hate,(1) hata
-jump,(1) hoppa
-
+join,(1) koppla
 leave,(1) lämna
-like,(1) gilla / (2) tycka om
-listen | listen to me,(1) lyssna | lyssna på mig
-lose  (be defeated),(1) förlora
-love,(1) älska
-mean | I mean that ...,(1) mena | Jag menar att ...
-meet (people) * 2,(1) träffa (människor) / (2) möta (människor)
-open,(1) öppna
-paint (walls, houses, etc.), (1) måla
-pass a test, succeed,(1) klara
+lock/fasten,(2) låsa
+mail,(1) posta
+meet (people) * 2,(1) träffa (människor)/(2) möta (människor)
+miss (someone),(1) sakna
+miss (a bus, a target),(1) missa
 
-pay,(1) betala
+open,(1) öppna
+paint (walls, houses, etc.),(1) måla
 play,(1) spela
 practice,(1) öva
-promise,(1) lova
-repeat,(1) upprepa
-research/investigate,(1) forska
+relax,(1) koppla av
 share,(1) dela
-show,(1) visa
-speak / talk * 2,(1) tala / (1) prata
-spell,(1) stava
-
-spend,(1) spendera
-start,(1) starta
-stop,(1) stoppa
-study,(1) studera
-swim,(1) simma
+succeed,(1) lyckas
 repair * 3,(1) fixa,(1) laga,(1) reparera
 taste,(1) smaka
-teach,(1) undervisa
-tell * 1,(1) berätta
 visit ... (visit father),(1) hälsa på ... (hälsa på far)
-
 wait,(1) vänta
 wake up,(1) vakna
-wonder,(1) undra
 wash the dishes,(1) diska
 watch,(1) titta
-work * 2,(1) arbeta / (1) jobba
-agree,(2) samtycka
-be named, be called,(2) heta
-belong to ...,(2) höra till ...
-build,(2) bygga
 
-buy,(2) köpa
+work * 2,(1) arbeta/(1) jobba
+be named, be called,(2) heta
+build,(2) bygga
 call (phone),(2) ringa
 close,(2) stänga
-decide,(2) bestäma
+compare,(2) jämföra
 differ (from),(2) skilja sig (från)
-dream, (2) dröma
-drive,(2) köra
-feel * 3,(2) känna ett tryck : feel an object / (3) må sjuk : feel youself physically (no emotions!) / (2) känna sig : feel yourself (any situation)
+dream,(2) dröma
 fill,(2) fylla
 follow,(2) följa
-forget,(2) glömma
-
 happen,(2) hända
+
 hear,(2) höra
+belong to ...,(=2) tillhöra ...
+keep in touch,(=2) höra av sig
+find out/inquire,(=2) höra efter
+belong/originate,(=2) höra hemma
+match/belong together,(=2) höra ihop
 help,(2) hjälpa
-learn = teach,(2) lära
 live,(2) leva
-look for (a car), (2) söka (en bil)
-marry, (2) gifta sig
-move,(2) röra
-need,(2) behöva
+look for (a car),(2) söka (en bil)
+marry,(2) gifta sig
 put,(2) sätta
 
-read,(2) läsa
+release/let go,(2) släppa
 send,(2) sända
 set,(2) ställa
 smoke,(2) röka
-think,(2) tänka
-visit, (2) besöka
-travel,(2) resa
-try * 2,(2) försöka / (1) pröva
+visit,(2) besöka
+try * 2,(2) försöka/(1) pröva
 turn,(2) vända
 use,(2) använda
 
+[[THREE]]
+
 live (somewhere),(3) bo
 believe,(3) tro
-
+depend (on),(3) bero (på)
+dress != undress,(3) klä != klä av (sig)
+change clothes,(=3) klä om
 
 [[???]]
 
-fight,(4) slåss - slåss! - slåss - slogs - slagits
 want,(4) vilja - # - vil - ville - velat
+be able to/can,(4) kunna - # - kan - kunde - kunnat(4) skola - # - ska - skulle - skolat
+be about to/shall,(4) skola - # - ska - skulle - skolat
+lie (be in a horisonal position),(4) ligga - ligg! - ligger - låg - legat
 
 [[V1 -> V1 -> V2]]
 
 grow,(4) växa - väx! - växer - växte - vuxit
 suggest,(4) föreslå - föreslå! - föreslår - föreslåg - föreslagit
 
-[[V1 -> V2 ->V2]]
+[[V1 -> V2 -> V2]]
 
 sell,(4) sälja - sälj - säljer - sålde - sålt
 do = make,(4) göra - gör! - gör - gjorde - gjort
 remake/redo (to ... - object),(4) göra om (till ...)
+lay/put (to some place),(4) lägga - lägg! - lägger - lade - lagt
+memorize,(=4) lägga på minnet
+go to bed/lie down,(=4) lägga sig
+
+[[å -> o -> a]]
+
+fight,(4) slåss - slåss! - slåss - slogs - slagits
+hit/knock,(4) slå - slå! - slår - slog - sagit
 
 [[ick -> ått]]
 
 go = walk,(4) gå - gå! - går - gick - gått
+revert/return,(=4) återgå
 get,(4) få - få! - får - fick - fått
 
 [[V1 -> V2 -> V1]]
 
 look = see,(4) se - se! - ser - såg - sett
+look after,(=4) se efter
+appear .../look like ...,(=4) se ut
 prey (ask),(4) be - be! - ber - bad - bett
+smile,(4) le - le! - ler - log - lett
 understand,(4) förstå - förstå! - förstår - förtod - förstått
+missunderstand,(=4) missförstå
 consist of,(4) bestå av - : - består av - bestod - bestått
-drag, pull,(4) draga - drag - drar - drog - dragit
+drag/pull,(4) draga - drag - drar - drog - dragit
 fall,(4) falla - fall! - faller - föll - fallit
+travel * 2,(4) fara - far - far - for - farit/(2) resa 
 give,(4) ge - ge! - get - gav - gett
+give up,(=4) ge upp
+publish,(=4) ge ut
+admit/concede,(=4) medge
 be,(4) vara - var! - är- var - varit
 take,(4) ta - ta! - tar - tog - tagit
+rest/take a nap,(=4) ta igen sig
+repeat/say again,(=4) ta om
+put on clothes,(=4) ta på sig
 bring,(=4) ta med
 die,(4) dö - dö! - dör - dog - dött
 hold = keep,(4) hålla - håll! - håller - höll - hållit
 know,(4) vet - vet! - vet - visste - vetat
+recieve,(4) motta[ga] - motta[g] - motta[ge]r - mottog - mottagit
 
 [[ä -> a -> a]] || [ö -> o -> o]
 
@@ -156,14 +230,20 @@ cut,(4) skära - skär! - skär - skar - skurit
 cry,(4) gråta - gråt! - gråter - grät - gråtit
 let,(4) låta - låt! - låter - lät - låtit
 eat,(4) äta - ät! - äter - åt - ätit
+forgive,(4) förlåta - förlåt! - förlåter - förlät - förlåtit
 
 [[V -> V -> V]]
 
 come,(4) komma - kom! - kommer - kom - kommit
+come back,(=4) återkomma
+disapper/get lost,(=4) komma bort
+remember/recall,(=4) komma ihåg
 let,(4) låta - låt! - låter - låt - låtit
 have,(4) ha - ha! - har - hade - haft
+be in a hurry,(=4) ha bråttom
+wear (clothes),(=4) ha på sig
 remember ...,(4) minnas ... - minns! - minns - mindes - mints
-ride/take a transport, (4) åka - åk! - åker - åkte - åkt
+ride/take a transport,(4) åka - åk! - åker - åkte - åkt
 oversleep,(4 = sova) försova sig
 sleep,(4) sova - sov! - sover - sov - sovit
 stand,(4) stå - stå! - står - ståd - stått
@@ -175,9 +255,13 @@ disapper,(4) försvinna - försvinn! - försvinner - försvann - försvunnit
 drink,(4) dricka - drick! - dricker - drack - druckit
 exist,(4) finnas - # - finns - fanns - funnits
 have time to do,(4) hinna göra - hinn! - hinner - hann - hunnit
-run,(4) springa - spring! - springer - sprang - sprungit
+run * 2,(4) springa - spring! - springer - sprang - sprungit/(2) ränna
 sit,(4) sitta - sitt! - sitter - satt - suttit
 win,(4) vinna - vinn! - vinner - vann - vunnit
+benefit from ...,(=4) vinna på ...
+avoid/escape,(4) slippa - slipp! - slipper - slapp - sluppit
+find * 2,(4) finna - finn! - finner - fann - funnit/(1) hitta
+escape (from object or punishment),(4) slippa - slipp! - slipper - slapp - sluppit
 
 [[i(long) -> e(long) -> i(long)]]
 
@@ -186,6 +270,10 @@ bite,(4) bita - bit! - biter -  bet - bitit
 ride,(4) rida - rid! - rider - red - ridit
 run, operate some machine,(4) driva - driv! - driver - drev - drivit
 write,(4) skriva - skriv! - skriver - skrev - skrivit
+sign in,(=4) skriva in sign
+sign (an official paper),(=4) skriva på
+shout,(4) skrika - skrik! - skriker - skrek - skrikit
+disappoint,(4) svika - svik! - sviker - svek - svikit
 
 [[u/y(long) -> ö(long) -> u(long)]]
 
@@ -195,3 +283,7 @@ fly,(4) flyga - flyg! - flyger - flög - flugit
 invite,(4) bjuda - bjud! - bjuder - bjöd - bjudit
 sing,(4) sjunga - sjung! - sjunger - sjöng - sjungit
 shoot,(4) skjuta - skjut! - skjuter - sköt - skjutit
+lie (say not truth),(4) ljuga - ljug - ljuger - ljög - ljugit
+cancel/delete,(4) stryka - stryk! - stryker - strök - strukit
+connect/join,(4) ansluta - anslut! - ansluter - anslöt - anslutit
+interrupt,(4) avbryta - avbryt! - avbryter - avbröt - avbrutit

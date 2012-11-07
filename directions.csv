@@ -1,12 +1,8 @@
-North,norr,,
-South,söder,,
-East,öster,,
-West,väster,,
- , , , 
-left,till vänster, , 
-right,till höger, , 
-straight ahead,rakt fram,,
-Northeast,nordost,,
-Northwest,nordväst,,
-Southeast,sydost,,
-Southwest,sydväst,,
+North,norr
+South,söder
+East,öster
+West,väster
+Northeast,nordost
+Northwest,nordväst
+Southeast,sydost
+Southwest,sydväst

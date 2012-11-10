@@ -35,7 +35,6 @@ priest,präst
 publisher,förläggare
 scientist,vetenskapsman
 shoemaker,skomakare
-"shop, store",butik
 singer,"sångare, sångerska"
 student,student
 surgeon,kirurg
@@ -43,31 +42,31 @@ tailor,skräddare
 teacher,lärare
 translator,översättare
 workman,arbetare
-Shop assistant
-driver
-cashier
-employer
-employee
-programmer
-architect
-stewardess
-blacksmith
-carpenter
-manager
-leader
-crowd
-artist
-pilot
-guard
-bartender
-dancer
-composer
-writer
-movie director
-sportsman
-player
-buyer
-fireman
-magician
-coach
-farmer
+shop assistant,butiksbiträde
+driver,förare
+cashier,kassör
+employer,arbetsgivare
+employee,anställd
+programmer,programmerare
+architect,arkitekt
+stewardess,flygvärdinna
+blacksmith,smed
+carpenter,snickare
+manager,chef
+leader,ledare
+crowd,folkmassa
+artist,konstnär
+pilot,pilotprojekt
+guard,vakt
+bartender,bartender
+dancer,dansare
+composer,kompositör
+writer,författare
+movie director,regissör
+sportsman,idrottsman
+player,spelare
+buyer,köpare
+fireman,brandman
+magician,trollkarl
+coach,tränare
+farmer,bonde

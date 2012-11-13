@@ -1,3 +1,6 @@
+compete,(1) tävla
+diet,(1) bänta
+mix,(1) blanda
 rent,(1) arrendera
 borrow,(1) låna
 book/reserve,(1) boka
@@ -54,7 +57,7 @@ call,(1) kalla
 research/investigate,(1) forska
 teach,(1) undervisa
 spell,(1) stava
-study,(1) studera
+study * 2,(1) studera / (1) plugga
 learn = teach,(2) lära
 pass a test / succeed,(1) klara
 accept,(1) acceptera
@@ -68,7 +71,8 @@ prepare,(1) preparera
 reduce,(1) reducera
 attend,(1) bevista
 bake,(1) baka
-change * 2,(1) ändra/(2) byta
+change (from A to B),(2) byta
+change (property of an object),(1) ändra
 clean,(1) städa
 cook,(1) laga
 disconnect,(=1) koppla ur
@@ -97,6 +101,7 @@ share,(1) dela
 succeed,(1) lyckas
 repair * 3,(1) fixa,(1) laga,(1) reparera
 taste,(1) smaka
+seem,(1) verka
 visit ... (visit father),(1) hälsa på ... (hälsa på far)
 wait,(1) vänta
 wake up,(1) vakna
@@ -116,6 +121,7 @@ fill,(2) fylla
 follow,(2) följa
 happen,(2) hända
 hear,(2) höra
+höja,(2) raise
 belong to ...,(=2) tillhöra ...
 keep in touch,(=2) höra av sig
 find out/inquire,(=2) höra efter
@@ -215,7 +221,7 @@ run * 2,(4) springa - spring! - springer - sprang - sprungit/(2) ränna
 sit,(4) sitta - sitt! - sitter - satt - suttit
 win,(4) vinna - vinn! - vinner - vann - vunnit
 benefit from ...,(=4) vinna på ...
-avoid/escape,(4) slippa - slipp! - slipper - slapp - sluppit
+avoid/escape * 2,(2) rymma / (4) slippa - slipp! - slipper - slapp - sluppit
 find * 2,(4) finna - finn! - finner - fann - funnit/(1) hitta
 escape (from object or punishment),(4) slippa - slipp! - slipper - slapp - sluppit
 become,(4) bli - bli! - blir - blev - blivit
@@ -239,3 +245,5 @@ cancel/delete,(4) stryka - stryk! - stryker - strök - strukit
 iron,(=4) stryka
 connect/join,(4) ansluta - anslut! - ansluter - anslöt - anslutit
 interrupt,(4) avbryta - avbryt! - avbryter - avbröt - avbrutit
+turn/twist,(4) vrida - vrid! - vrider - vred - vridit
+freeze,(4) frysa - frys! - fryser - frös - frusit

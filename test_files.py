@@ -9,9 +9,9 @@ for tfile in os.listdir(current_dir):
     tfile = os.path.join(current_dir, tfile)
     with open(tfile) as f:
         i = 1
+        errors = []
         for line in f.readlines():
             i += 1
-            errors = []
             if not line:
                 errors.append("Blank line @ %d" % i)
                 continue
@@ -24,3 +24,9 @@ for tfile in os.listdir(current_dir):
                 continue
             if line.count("  "):
                 errors.append("Line has too many spaces in a row @ %d" % i)
+        if errors:
+            print "Errors @ %s" % tfile
+            for error in errors:
+                print error
+            print ""
+

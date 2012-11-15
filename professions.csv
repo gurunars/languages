@@ -9,11 +9,11 @@ businessman,affärsman
 butcher,slaktare
 pharmacist,farmaceut
 pharmacy,apotek (n)
-cook,"kock, kokerska"
+cook,kock / kokerska
 customer,kund
 dentist,tandläkare
-doctor,"läkare, doktor"
-employee,"anställd, arbetstagare"
+doctor,läkare / doktor
+employee,anställd / arbetstagare
 engineer,ingenjör
 fisherman,fiskare
 gardener,trädgårdsmästare
@@ -22,7 +22,7 @@ jeweler,juvelerare
 journalist,journalist
 judge,domare
 lawyer,advokat
-mechanic,"mekaniker, montör"
+mechanic,mekaniker / montör
 musician,musiker
 nurse,sjuksköterska
 official,ämbetsman
@@ -35,7 +35,7 @@ priest,präst
 publisher,förläggare
 scientist,vetenskapsman
 shoemaker,skomakare
-singer,"sångare, sångerska"
+singer,sångare / sångerska
 student,student
 surgeon,kirurg
 tailor,skräddare

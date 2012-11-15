@@ -8,7 +8,7 @@ for tfile in os.listdir(current_dir):
         continue
     tfile = os.path.join(current_dir, tfile)
     with open(tfile) as f:
-        i = 1
+        i = 0
         errors = []
         for line in f.readlines():
             i += 1

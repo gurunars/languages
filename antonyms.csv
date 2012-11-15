@@ -9,7 +9,7 @@ clever!=stupid,smart!=dum
 cruel!=kind,grym!=typ
 dangerous!=safe,farlig!=säker
 deep,djup
-difficult!=easy,svår!=easy
+difficult!=easy,svår!=lätt
 clean!=dirty,ren!=smutsig
 up!=down,upp!=ner
 wet!=dry,våt!=torka
@@ -31,7 +31,7 @@ old!=new,gammal!=ny
 closed!=open,stängd!=öppen
 shy!=outgoing,blyg!=utgående
 rich!=poor,rik!=fattig
-fake!=real,falsk!=real
+fake!=real,falsk!=verklig
 right!=left,höger!=vänster
 right!=wrong,fel!=rät
 blunt!=sharp,trubbigt!=skarp

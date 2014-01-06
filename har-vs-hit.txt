@@ -1,0 +1,5 @@
+hem = home; direction: gå hem
+hemma = at home; location jag är hemma
+
+hit/dit = direction: gå hit/gå dit
+här/där = location: jag är här/jag är där

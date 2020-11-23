@@ -1,17 +1,14 @@
 #!/usr/bin/python
 import os
+from os import curdir
 
-current_dir = os.path.abspath(os.curdir)
 
-for tfile in os.listdir(current_dir):
-    if not tfile.endswith(".csv"):
-        continue
-    tfile = os.path.join(current_dir, tfile)
-    with open(tfile) as f:
-        i = 0
+def validate_file(path):
+    if not path.endswith(".csv"):
+        return
+    with open(path) as f:
         errors = []
-        for line in f.readlines():
-            i += 1
+        for i, line in enumerate(f.readlines()):
             if not line:
                 errors.append("Blank line @ %d" % i)
                 continue
@@ -25,8 +22,19 @@ for tfile in os.listdir(current_dir):
             if line.count("  "):
                 errors.append("Line has too many spaces in a row @ %d" % i)
         if errors:
-            print "Errors @ %s" % tfile
+            print("Errors @ %s" % tfile)
             for error in errors:
-                print error
-            print ""
+                print(error)
+            print("")
 
+
+curdir = os.path.abspath(os.curdir)
+
+
+for language in os.listdir(curdir):
+    for 
+
+for tfile in os.listdir(current_dir):
+    if not tfile.endswith(".csv"):
+        continue
+    tfile = os.path.join(current_dir, tfile)

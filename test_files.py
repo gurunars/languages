@@ -3,7 +3,12 @@ import os
 from os import curdir
 
 
-def validate_file(path):
+def validate_collection(path):
+    for subpath in os.listdir(path):
+        validate_set(os.path.join(path, subpath))
+        
+
+def validate_set(path):
     if not path.endswith(".csv"):
         return
     with open(path) as f:
@@ -22,7 +27,7 @@ def validate_file(path):
             if line.count("  "):
                 errors.append("Line has too many spaces in a row @ %d" % i)
         if errors:
-            print("Errors @ %s" % tfile)
+            print("Errors @ %s" % path)
             for error in errors:
                 print(error)
             print("")
@@ -31,10 +36,10 @@ def validate_file(path):
 curdir = os.path.abspath(os.curdir)
 
 
-for language in os.listdir(curdir):
-    for 
-
-for tfile in os.listdir(current_dir):
-    if not tfile.endswith(".csv"):
+for subdir in os.listdir(curdir):
+    if subdir.startswith("."):
         continue
-    tfile = os.path.join(current_dir, tfile)
+    full_path = os.path.join(curdir, subdir)
+    if not os.path.isdir(full_path):
+        continue
+    validate_collection(full_path)

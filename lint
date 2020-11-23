@@ -5,7 +5,7 @@ from os import curdir
 
 def validate_collection(path):
     for subpath in os.listdir(path):
-        validate_set(os.path.join(path, subpath))
+        yield from validate_set(os.path.join(path, subpath))
         
 
 def validate_set(path):
@@ -27,19 +27,30 @@ def validate_set(path):
             if line.count("  "):
                 errors.append("Line has too many spaces in a row @ %d" % i)
         if errors:
-            print("Errors @ %s" % path)
+            yield "Errors @ %s" % path
             for error in errors:
-                print(error)
-            print("")
+                yield str(error)
+            yield ""
 
 
-curdir = os.path.abspath(os.curdir)
+def validate_project():
+    curdir = os.path.abspath(os.curdir)
+    for subdir in os.listdir(curdir):
+        if subdir.startswith("."):
+            continue
+        full_path = os.path.join(curdir, subdir)
+        if not os.path.isdir(full_path):
+            continue
+        yield from validate_collection(full_path)
 
 
-for subdir in os.listdir(curdir):
-    if subdir.startswith("."):
-        continue
-    full_path = os.path.join(curdir, subdir)
-    if not os.path.isdir(full_path):
-        continue
-    validate_collection(full_path)
+def main():
+    errors = list(validate_project())
+    if errors:
+        for error in errors:
+            print(error)
+        exit(1)
+
+
+if __name__ == "__main__":
+    main()
